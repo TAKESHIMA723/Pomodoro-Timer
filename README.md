@@ -1,5 +1,5 @@
 # Pomodoro Timer
-GitHub Pagesで表示しているポモドーロタイマーです。
+GitHub Pagesで公開中のポモドーロタイマーです。
 PWA対応により、スマホアプリとしてホーム画面にインストールして使用できます。
 
 https://takeshima723.github.io/Pomodoro-Timer/
