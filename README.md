@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+#Pomodoro Timer
+GitHub Pagesで表示しているポモドーロタイマーです。
+PWA対応により、スマホアプリとしてホーム画面にインストールして使用できます。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+https://takeshima723.github.io/Pomodoro-Timer/
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## インストール方法（スマホ）
+
+1.  Safari (iOS) または Chrome (Android) でアクセス
+2.  「共有」アイコン または メニュー から「ホーム画面に追加」を選択
+3.  アプリとして起動
